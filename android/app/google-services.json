@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213395181144",
+    "firebase_url": "https://natrajyamaha.firebaseio.com",
+    "project_id": "natrajyamaha",
+    "storage_bucket": "natrajyamaha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213395181144:android:99d00cb19181317ee8442d",
+        "android_client_info": {
+          "package_name": "com.example.natrajyamaha1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213395181144-0sh5qhn23fa50e872ubd9a81hgl6sd2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTOExl0OXtgi3RYgNJ-IHpEa23Q2iyZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213395181144-0sh5qhn23fa50e872ubd9a81hgl6sd2v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213395181144-n4kbdgp97mfmut75d56pmh1qg7tdkedh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.natrajyamaha1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
